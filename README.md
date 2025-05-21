@@ -1,2 +1,2 @@
-Just a small multiplayer game that i decided to make :D
+I programmed a simple multiplayer pirate game using HTML, CSS, and JavaScript, featuring sprite images from CraftPix. The game includes two pirates battling against each other, with a timer and life bars tracking their health. When a player's health reaches zero, the game ends, declaring the other pirate victorious. It's a lightweight but engaging project focused on real-time interaction and competitive gameplay
 <img width="1011" alt="Screenshot 2024-08-07 at 6 43 34 PM" src="https://github.com/user-attachments/assets/e4742c03-bb30-4c0b-9877-24cd72440f70">
